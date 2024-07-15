@@ -1,7 +1,7 @@
-# Live link
+# Background Color Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React.js application that allows users to change the background color of a webpage by clicking a button. Each button is styled with the corresponding color, and clicking the button changes the background color to the selected color.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- (https://bgcolorr-changer.netlify.app/)
+Check out the live demo [here](https://bgcolorr-changer.netlify.app/).
